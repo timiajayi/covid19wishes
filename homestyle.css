@@ -1,0 +1,30 @@
+body{
+    background: url(image2.jpg);
+    background-repeat: repeat;
+    background-size: auto;   
+}
+header{
+    background-image: url(header.png);
+}
+header p{
+    color: blueviolet;
+}
+
+.contactform{
+text-align: center;
+margin: 0 auto;
+padding:20px;
+width: 600PX;
+border: 2px solid #333333;
+
+background-color: azure;
+opacity: ;
+}
+form{
+    padding: 3px;
+    background-color: bisque;
+}
+h3{
+opacity: 0.5;
+background-color: crimson;
+}

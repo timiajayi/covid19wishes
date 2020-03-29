@@ -1,0 +1,31 @@
+body{
+    background: url(indeximage.jpg);
+    background-size: auto;   
+}
+header{
+    background-image: url(header2.png);    
+}
+header p{
+   color: red;
+   border-radius: 2px;
+}
+
+.contactform{
+text-align: center;
+margin: 0 auto;
+padding:20px;
+width: 600PX;
+border: 2px solid #333333;
+
+background-color: azure;
+
+
+}
+form{
+    padding: 3px;
+    background-color: bisque;
+}
+h3{
+opacity: 0.5;
+background-color: crimson;
+}
